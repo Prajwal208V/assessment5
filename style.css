@@ -1,0 +1,90 @@
+body{
+    background-image:url(./image.html.jpg);
+    margin:auto;
+    padding:5px;
+    border:10px sollid green;
+    
+}
+
+#box{
+    display:flex;
+    margin-top:30px;
+}
+.top{
+    border:5px solid red;
+    border-radius:20px;
+    background-color:black;
+    color:white;
+    margin:auto;
+    text-align:center;
+    font-family: 'Playfair Display', serif;
+}
+#top-left{
+    padding:12px 7px 18px 7px;
+}
+#top-center {
+    padding:15px 40px 10px 40px;
+}
+#top-right{
+    padding:10px 30px 5px 30px;
+}
+
+#center-box{
+    display:flex;
+    margin-left:30px;
+}
+
+#circle{
+    border:10px solid grey;
+    border-radius:50%;
+    background-color:darkcyan;
+    text-align: center;
+    margin-top:250px;
+    width:300px;
+    height:200px;
+    padding:90px 2px 0px 2px;
+}
+#form{
+    border:5px dashed red;
+    width:350px;
+    height:800px;
+    background-color:white;
+    margin-left:250px;
+    margin-top:50px;
+    text-align:center;
+    color:red;
+}
+.label{
+    margin:0;
+}
+.input-element{
+    text-align:center;
+}
+#menu-title{
+    display:flex;
+}
+#menu{
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    border:5px solid red;
+    border-radius:30px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:15px 150px 10px 150px;
+    font-size: 30px;
+}
+#footer-box{
+    display:flex;
+    margin-top:30px;
+}.footer1-list{
+    border:2px solid green;
+    border-radius:20px;
+    background-color:lightgreen;
+    color:royalblue;
+    margin:auto;
+    text-align:center;
+    width:400px;
+    height:230px;
+}
