@@ -1,9 +1,10 @@
 body{
     background-image:url(./image.html.jpg);
-    margin-bottom:80px;
-    padding:5px;
-    border:10px sollid green;
-    
+    margin:0;
+    width: 100%;
+    height: 100%;
+    padding-bottom:80px;
+    border:7px solid yellowgreen;
 }
 
 #box{
