@@ -47,15 +47,17 @@ body{
 #form{
     border:5px dashed red;
     width:350px;
-    height:800px;
+    height:650px;
     background-color:white;
     margin-left:250px;
     margin-top:50px;
     text-align:center;
     color:red;
 }
-.label{
-    margin:0;
+.lable{
+    margin-bottom:4px;
+    margin-top:10px;
+    font-size:18px;
 }
 .input-element{
     text-align:center;
@@ -87,4 +89,7 @@ body{
     text-align:center;
     width:400px;
     height:230px;
+}
+.input-element{
+    width: 70%;
 }
